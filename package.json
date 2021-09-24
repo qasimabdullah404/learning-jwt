@@ -1,0 +1,11 @@
+{
+  "name": "learning-jwt",
+  "version": "1.0.0",
+  "description": "JWT API (Authentication and stuff)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Qasim Abdullah <qasimabdullah404@gmail.com>",
+  "license": "MIT"
+}
