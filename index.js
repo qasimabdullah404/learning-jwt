@@ -15,4 +15,4 @@ app.use(express.json())
 app.use('/api/user', authRoute)
 app.use('/api/welcome', welcomeRoute)
 
-app.listen(3000, () => console.log(`Server up and running on ${PORT}...`))
+app.listen(PORT, () => console.log(`Server up and running on ${PORT}...`))
